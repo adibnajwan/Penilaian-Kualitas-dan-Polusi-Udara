@@ -1,0 +1,2 @@
+# Penilaian-Kualitas-dan-Polusi-Udara---Tugas-UAS-Big-Data-Predictive-Analytics-Lanjut
+Proyek ini adalah tugas UAS Big Data &amp; Predictive Analytics Lanjut yang fokus pada penilaian kualitas dan polusi udara. Kami menganalisis dampak polusi udara terhadap kesehatan dan lingkungan dengan mempelajari komponen utama seperti PM2.5, NO2, SO2, serta memberikan rekomendasi kebijakan untuk perbaikan kualitas udara.
